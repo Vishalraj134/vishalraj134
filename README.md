@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #FF69B4;">Hey there! 👋 I'm Vishal Raj</h1>  
-<h3 align="center" style="color: #1E90FF;">✨ A passionate Full Stack Developer | MERN Stack Enthusiast from India 🌍</h3>
+<h3 align="center" style="color: #1E90FF;">✨ A passionate Full Stack Developer 🌍</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;DSA+and+Problem+Solving+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
