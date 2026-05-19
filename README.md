@@ -120,7 +120,7 @@ MERN Stack, REST APIs, React.js, Node.js, MySQL, and DSA.
 
 ### 🌟 About Me 🌟
 
-Hello! I'm **Vishal Raj**, a passionate **Computer Science Engineering student** 💻 with strong interest in **full-stack web development** and problem-solving. Currently pursuing my **B.Tech in Computer Science Engineering ** from **Institute of Engineering and Management, Kolkata**, with a CGPA of **8.22**.  
+Hello! I'm **Vishal Raj**, a passionate **Computer Science Engineering student** 💻 with strong interest in **full-stack web development** and problem-solving. Currently pursuing my **B.Tech in Computer Science Engineering ** from **Institute of Engineering and Management, Kolkata**.  
 
 I have hands-on experience in building **scalable full-stack applications** using the **MERN stack**, including authentication systems, RESTful APIs, real-time communication apps, and responsive user interfaces. I enjoy transforming ideas into practical and efficient web applications.  
 
@@ -134,10 +134,9 @@ I thrive on learning new technologies, building impactful applications, and cont
 
 ### 🎓 Education
 
-- **Bachelor of Technology in Computer Science Engineering (IoT)**  
+- **Bachelor of Technology in Computer Science Engineering**  
   📍 Institute of Engineering and Management, Kolkata  
   📅 2022 – 2026  
-  📊 CGPA: 8.22
 
 ---
 
