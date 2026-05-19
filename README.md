@@ -151,4 +151,5 @@ I thrive on learning new technologies, building impactful applications, and cont
 - Implemented CRUD operations with MySQL integration.
 - Worked in Agile-based development workflows using Git & GitHub.
 
+![GitHub GIF](banner.gif)
 ---
